@@ -15,14 +15,11 @@ Let me tell you a little about myself.
 
 <h3>Skill & Tools</h3>
 
-![html (1)](https://user-images.githubusercontent.com/95828884/200162130-3eef223a-dcc8-4fff-9ffb-1fb0ed932f65.png)
-![css-3](https://user-images.githubusercontent.com/95828884/200162149-3b82b551-b844-42a2-aeb3-23dc82fde904.png)
-![bootstrap](https://user-images.githubusercontent.com/95828884/200162163-8b35856d-42be-4390-b03c-5f479c256af6.png)
-![js](https://user-images.githubusercontent.com/95828884/200162187-c196a68e-6d6f-46f4-9ec7-9b384cae4e5c.png)
-![physics (1)](https://user-images.githubusercontent.com/95828884/200162213-2897a011-53b1-4e4f-9d61-fc5821ad6287.png)
-![nodejs](https://user-images.githubusercontent.com/95828884/200162222-2927d017-e494-438c-904e-18684d978c19.png)
-![git](https://user-images.githubusercontent.com/95828884/200162270-3e059783-40b8-412d-8b08-5157376b8143.png)
-![database](https://user-images.githubusercontent.com/95828884/200162291-7e6b4d5d-d9eb-4e62-a58c-7059da87b4bc.png)
+![html (2)](https://user-images.githubusercontent.com/95828884/200162398-2d25c391-5db8-4d4b-a8c3-76d4dfe7f589.png)
+![css-3 (1)](https://user-images.githubusercontent.com/95828884/200162422-24aad31d-f5b6-48f3-a9bc-53d0171ce1b4.png)
+![bootstrap (1)](https://user-images.githubusercontent.com/95828884/200162425-09bd2883-7e16-4d58-b0b9-f669c9429fd6.png)
+![js (1)](https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png)
+![atom](https://user-images.githubusercontent.com/95828884/200162447-cb1647c0-0a79-4f82-9c23-13f79c41dc98.png)
 
 
 <h3>Other Links</h3>
