@@ -25,5 +25,4 @@ Let me tell you a little about myself.
 <h3>Other Links</h3>
 
 
-<a href="https://www.linkedin.com/in/ahmetsftwtr/">![linkedin](https://user-images.githubusercontent.com/95828884/200162343-2b3d342a-e1d0-4b1f-abdd-1d3edfbee794.png)</a>
 
