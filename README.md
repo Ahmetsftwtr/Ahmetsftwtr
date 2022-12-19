@@ -24,5 +24,8 @@ Let me tell you a little about myself.
 
 <h3>Other Links</h3>
 
+<hr>
+![](https://komarev.com/ghpvc/?username=ahmetsftwtr&color=dc143c)
+
 
 
