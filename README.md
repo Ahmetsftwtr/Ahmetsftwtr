@@ -19,9 +19,7 @@ Let me tell you a little about myself.
 ![css-3 (1)](https://user-images.githubusercontent.com/95828884/200162422-24aad31d-f5b6-48f3-a9bc-53d0171ce1b4.png)
 ![bootstrap (1)](https://user-images.githubusercontent.com/95828884/200162425-09bd2883-7e16-4d58-b0b9-f669c9429fd6.png)
 ![js (1)](https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png)
-![atom](https://user-images.githubusercontent.com/95828884/200162447-cb1647c0-0a79-4f82-9c23-13f79c41dc98.png)
-
-
+<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png" width="30"></img>
 <h3>Other Links</h3>
 
 <hr>
