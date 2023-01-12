@@ -21,7 +21,7 @@ Let me tell you a little about myself.
 ![js (1)](https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png)
 <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png" width="30"></img>
 <h3>Other Links</h3>
-
+<a href="https://www.linkedin.com/in/ahmetsftwtr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30"></a>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=ahmetsftwtr&color=dc143c)
