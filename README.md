@@ -6,11 +6,8 @@ Let me tell you a little about myself.
 <br>
 🌎 I'm from Turkey
 <br>
-💬 Ask me about <b>Css</b> & <b>Javascript</b>
-<br>
 📧 You can reach  me by <a href="mailto:ahmet.sftwtr@gmail.com">email</a>
 <br>
-👨‍💻 I'm Learning Nodejs and React
 
 
 <h3>Skill & Tools</h3>
