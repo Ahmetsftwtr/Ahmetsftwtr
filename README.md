@@ -8,6 +8,7 @@ Let me tell you a little about myself.
 <br>
 📧 You can reach  me by <a href="mailto:ahmet.sftwtr@gmail.com">email</a>
 <br>
+📚Deep learning
 
 
 <h3>Skill & Tools</h3>
