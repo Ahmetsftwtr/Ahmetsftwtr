@@ -13,10 +13,12 @@ Let me tell you a little about myself.
 
 <h3>Skill & Tools</h3>
 
-![html (2)](https://user-images.githubusercontent.com/95828884/200162398-2d25c391-5db8-4d4b-a8c3-76d4dfe7f589.png)
-![css-3 (1)](https://user-images.githubusercontent.com/95828884/200162422-24aad31d-f5b6-48f3-a9bc-53d0171ce1b4.png)
-![bootstrap (1)](https://user-images.githubusercontent.com/95828884/200162425-09bd2883-7e16-4d58-b0b9-f669c9429fd6.png)
-![js (1)](https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png)
+<img src="https://user-images.githubusercontent.com/95828884/200162398-2d25c391-5db8-4d4b-a8c3-76d4dfe7f589.png" width="35"></img>
+<img src="https://user-images.githubusercontent.com/95828884/200162422-24aad31d-f5b6-48f3-a9bc-53d0171ce1b4.png" width="35"></img>
+<img src="https://user-images.githubusercontent.com/95828884/200162425-09bd2883-7e16-4d58-b0b9-f669c9429fd6.png" width="35"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35"></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMd7eiGMX9FwRLC0uJTDewSjw_7_WvCF4ABLdwztLrCnPEXrqW0gG-pH8eT-fYPLlghjY&usqp=CAU" width="35"></img>
+<img src="https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png" width="35"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="35"></img>
 
 <h3>Other Links</h3>
