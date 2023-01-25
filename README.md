@@ -22,6 +22,8 @@ Let me tell you a little about myself.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="35"></img>
 <img src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" width="35"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="35"></img>
+<img src="https://user-images.githubusercontent.com/95828884/214600353-3f7517be-f63a-4ede-8f13-296af278c4e4.png" width="30"></img>
+
 
 <h3>Other Links</h3>
 <a href="https://www.linkedin.com/in/ahmetsftwtr/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30"></a>
