@@ -19,7 +19,7 @@ Let me tell you a little about myself.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="35"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMd7eiGMX9FwRLC0uJTDewSjw_7_WvCF4ABLdwztLrCnPEXrqW0gG-pH8eT-fYPLlghjY&usqp=CAU" width="35"></img>
 <img src="https://user-images.githubusercontent.com/95828884/200162435-fedcc2d9-afc3-4c59-9340-ca11a9396073.png" width="35"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="35"></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVk66gxBzljMKXglZeC8cwtYREdwejYmQqSaqW0aU1&s" width="35"></img>
 <img src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" width="35"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="35"></img>
 <img src="https://user-images.githubusercontent.com/95828884/214600353-3f7517be-f63a-4ede-8f13-296af278c4e4.png" width="30"></img>
